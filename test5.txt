@@ -1,0 +1,73 @@
+ id="stnRequest99">  <div style="white-space: nowrap !important;">      <input type="hidden" name="hlyRange" value="1994-02-01|2005-03-07" />              <input type="hidden" name="dlyRange" value="1994-12-30|2005-03-07" />      <input type="hidden" name="mlyRange" value="|" />      <input type="hidden" name="StationID" value="10084" />      <input type="hidden" name="Prov" value="ON" />      <input type="hidden" name="urlExtension" value="_e.html" />      <input type="hidden" name="searchType" value="stnProv" />      <input type="hidden" name="lstProvince" value="ON" />              <input type="hidden" name="optLimit" value="yearRange" />      <input type="hidden" name="StartYear" value="1840" />      <input type="hidden" name="EndYear" value="2015" />      <input type="hidden" name="selRowPerPage" value="100" />      <input type="hidden" name="searchType" value="stnProv" />      <input type="hidden" name="cmdProvSubmit" value="Search" />      <input type="hidden" name="Line" value="99" />              <div>              <div class="divTableRowEven">                              <div class="span-2 row-end row-start margin-bottom-none station  wordWrap">BELLE RIVER                              </div>                              <div class="span-1 row-end row-start margin-bottom-none wordWrap">ON                                </div>                              <div class="span-1 row-end row-start margin-bottom-none wordWrap intWidth">      <select name="timeframe" size="1">
+                    <option value="1" selected="selected">
+                      Hourly
+                    </option>
+                    <option value="2">
+                      Daily
+                    </option>
+                                      </select>                              </div>              <div class="span-1 row-end row-start margin-bottom-none day_mth_yr wordWrap">                                      <label for="Year99" class="wb-invisible">Year</label>                                      <select id="Year99" name="Year" size="1"   onchange="elementChange(document.getElementById('stnRequest99'),1)">                              <option value="1994" >1994</option>                              <option value="1995" >1995</option>                              <option value="1996" >1996</option>                              <option value="1997" >1997</option>                              <option value="1998" >1998</option>                              <option value="1999" >1999</option>                              <option value="2000" >2000</option>                              <option value="2001" >2001</option>                              <option value="2002" >2002</option>                              <option value="2003" >2003</option>                              <option value="2004" >2004</option>                              <option value="2005" selected="selected">2005</option>                                      </select>                              </div>                      <div class="span-1 row-end row-start margin-bottom-none day_mth_yr wordWrap">                                      <label for="Month99" class="wb-invisible">Month</label>                                      <select id="Month99" name="Month" size="1"   onchange="elementChange(document.getElementById('stnRequest99'),1)" >                              <option value="1">Jan</option>                              <option value="2">Feb</option>                              <option value="3" selected="selected">Mar</option>                                      </select>                              </div>                      <div class="span-1 row-end row-start margin-bottom-none day_mth_yr wordWrap">                                      <label for="Day99" class="wb-invisible">Day</label>                                   <select id="Day99" name="Day" style="width:3.6em" size="1" >                      <option value="1">1</option>                      <option value="2">2</option>                      <option value="3">3</option>                      <option value="4">4</option>                      <option value="5">5</option>                      <option value="6">6</option>                      <option value="7" selected="selected">7</option>                                      </select>                              </div>                              <div>                                      <input class="display-inline button" type="submit" name="stnSubmit" value="Go" >                                              <script type="text/javascript">                                              javascript:elementChange(document.getElementById('stnRequest99'),1)                                              </script>                                      <input  class="searchDetailButtonStyle button display-inline" name="Apply" type="submit" value="Apply"/>                              </div>                              <input type="hidden" name="searchType" value="stnName"/>                      </div>              </div>      </div></form>              </div>      </div>
+           <div class="align-center">
+              <div class="float-left align-left">
+1 - 100 | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=101">101</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=201">201</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=301">301</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=401">401</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=501">501</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=601">601</a> | <a href="/advanceSearch/searchHistoricDataStations_e.html?searchType=stnProv&amp;timeframe=1&amp;lstProvince=ON&amp;optLimit=yearRange&amp;StartYear=1840&amp;EndYear=2015&amp;Year=2015&amp;Month=2&amp;Day=2&amp;selRowPerPage=100&amp;cmdProvSubmit=Search&amp;startRow=1601">1601>></a>
+              </div>
+              <div class="float-right align-right">
+                <form method="post" action="http://climate.weather.gc.ca/advanceSearch/searchHistoricData_e.html?searchType=stnProv&timeframe=1&lstProvince=ON&optLimit=yearRange&StartYear=1840&EndYear=2015&Year=2015&Month=1&Day=28&selRowPerPage=100&cmdProvSubmit=Search#provinceTab">
+                  <div>
+                    <input class="button" type="submit" value="Advanced Search" name="ScrollAction" />
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div class="clear"></div>                <!-- CONTENT ENDS | FIN DU CONTENU -->
+                <!-- THREE COLUMN LAYOUT ENDS | FIN DE LA MISE EN PAGE DE TROIS COLONNES -->
+
+                <!-- FOOTER BEGINS | DEBUT DU PIED DE LA PAGE -->
+<!-- Date Modified begins / Début de la date de modification -->
+<dl id="gcwu-date-mod" role="contentinfo">
+<dt>Date modified:</dt><dd><span><time>2015-01-12</time></span></dd>
+</dl>
+<div class="clear"></div>
+<!-- Date Modified ends / Fin de la date de modification -->
+<!-- MainContentEnd -->
+
+</div></div></div> </div>
+
+<div id="wb-foot"><div id="wb-foot-in"><footer>	<h2 id="wb-nav">Footer</h2>
+<!-- FooterStart -->
+	
+<nav role="navigation"><div id="gcwu-sft"><h3>Site footer</h3><div id="gcwu-sft-in">
+<div id="gcwu-tctr">
+<ul>
+<li class="gcwu-tc"><a href="http://weather.gc.ca/mainmenu/disclaimer_e.html" rel="license">Terms and conditions</a></li>
+<li class="gcwu-tr"><a href="http://www.ec.gc.ca/default.asp?lang=En&amp;n=390AF41B-1">Transparency</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<section><div class="span-2"><h4 class="col-head"><a href="http://ec.gc.ca/meteo-weather/default.asp?lang=En&amp;n=FDF98F96-1">About us</a></h4>
+<ul>
+<li><a href="http://www.ec.gc.ca/default.asp?lang=En&amp;n=BD3CE17D-1">Our Mandate</a></li>
+<li><a href="http://www.ec.gc.ca/default.asp?lang=En&amp;n=B6832638-1">Our Minister</a></li>
+<li><a href="/sitemap_e.html">Site Map</a></li>
+</ul></div></section>
+<section><div class="span-6"><h4 class="col-head"><a href="/contactus/contact_us_e.html">Contact us</a></h4>
+<address>
+<ul>
+<li><a href="/contactus/contact_us_e.html#address">Addresses</a></li>
+<li><a href="/contactus/contact_us_e.html#emails">Email</a></li>
+</ul>
+</address></div></section>
+</div></div></nav>
+<nav role="navigation"><div id="gcwu-gcft"><h3>Government of Canada footer</h3><div id="gcwu-gcft-in"><div id="gcwu-gcft-fip">
+<ul>
+<li><a rel="external" href="http://healthycanadians.gc.ca/index-eng.php"><span>Health</span></a></li>
+<li><a rel="external" href="http://www.travel.gc.ca/index-eng.asp"><span>Travel</span></a></li>
+<li><a rel="external" href="http://www.servicecanada.gc.ca/eng/home.shtml"><span>Service Canada</span></a></li>
+<li><a rel="external" href="http://www.jobbank.gc.ca/intro-eng.aspx"><span>Jobs</span></a></li>
+<li><a rel="external" href="http://actionplan.gc.ca/en"><span>Economy</span></a></li>
+<li id="gcwu-gcft-ca"><div><a rel="external" href="http://www.canada.ca/en/index.html">Canada.ca</a></div></li>
+</ul>
+</div></div></div></nav><!-- FooterEnd -->
+</footer></div></div>
+</div> <!-- End of wb-body --> <script src="../build/theme-gcwu-fegc/js/theme-min.js"></script>
+<script src="../build/js/settings.js"></script>
+<script src="../build/js/pe-ap-min.js"></script>                <!-- FOOTER ENDS | FIN DU PIED DE LA PAGE -->
